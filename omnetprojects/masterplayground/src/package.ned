@@ -1,0 +1,3 @@
+package masterplayground;
+
+@license(LGPL);

@@ -1,0 +1,4 @@
+#!/bin/sh
+cd `dirname $0`
+../src/masterplayground -n .:../src $*
+# for shared lib, use: opp_run -l ../src/masterplayground -n .:../src $*
