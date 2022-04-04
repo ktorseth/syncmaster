@@ -1,3 +1,0 @@
-[submodule "omnetproject/ibPTP"]
-	path = omnetproject/ibPTP
-	url = https://github.com/ptp-sim/libPTP.git
