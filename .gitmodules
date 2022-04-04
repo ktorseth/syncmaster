@@ -1,0 +1,9 @@
+[submodule "omnetprojects/libPTP"]
+	path = omnetprojects/libPTP
+	url = https://github.com/ptp-sim/libPTP.git
+[submodule "omnetprojects/PTP_Simulations"]
+	path = omnetprojects/PTP_Simulations
+	url = https://github.com/ptp-sim/PTP_Simulations.git
+[submodule "omnetprojects/OMNeT_Utils"]
+	path = omnetprojects/OMNeT_Utils
+	url = https://github.com/ptp-sim/OMNeT_Utils.git
