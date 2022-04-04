@@ -7,3 +7,6 @@
 [submodule "omnetprojects/OMNeT_Utils"]
 	path = omnetprojects/OMNeT_Utils
 	url = https://github.com/ptp-sim/OMNeT_Utils.git
+[submodule "omnetprojects/libPLN"]
+	path = omnetprojects/libPLN
+	url = https://github.com/ptp-sim/libPLN.git
